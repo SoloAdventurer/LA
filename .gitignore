@@ -1,5 +1,7 @@
 ### python, flask, node, react, vercel ###
 
+for_us.txt
+
 ### Flask ###
 instance/*
 !instance/.gitignore
