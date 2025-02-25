@@ -2,6 +2,12 @@
 
 for_us.txt
 
+server/flask-api/venv/
+__pycache__/
+*.pyc
+venv/
+*.log
+
 ### Flask ###
 instance/*
 !instance/.gitignore
